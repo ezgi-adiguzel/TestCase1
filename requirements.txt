@@ -1,0 +1,13 @@
+pytz==2020.1
+jsonpickle==1.4.1
+PyMySQL==0.9.3
+PyPika==0.37.6
+pytest==5.4.2
+pytest-instafail==0.4.1.post0
+pytest-rerunfailures==9.0
+pytest-xdist==1.32.0
+requests==2.23.0
+selenium==3.141.0
+urllib3==1.25.9
+PyGithub==1.53
+psutil==5.8.0
